@@ -57,19 +57,6 @@
             <artifactId>scala-reflect</artifactId>
             <version>${scala.version}</version>
         </dependency>
-
-        <dependency>
-            <groupId>org.scala-js</groupId>
-            <artifactId>scalajs-library_2.12</artifactId>
-            <version>${scalajs.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.github.japgolly.scalajs-react</groupId>
-            <artifactId>core_sjs0.6_2.12</artifactId>
-            <version>1.4.2</version>
-        </dependency>
-
     </dependencies>
 
     <build>
